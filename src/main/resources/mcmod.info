@@ -1,0 +1,16 @@
+[
+{
+  "modid": "diceroller",
+  "name": "Dice Roller",
+  "description": "Simple dice roller for RPG.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cthompson"],
+  "credits": "EAG community for requesting this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
